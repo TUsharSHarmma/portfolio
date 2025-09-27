@@ -46,7 +46,7 @@ function Home() {
 
           <div className="btn-group">
             <a href="#projects" className="btn-glow">🚀 See My Work</a>
-            <a href="/Tushar_Sharma_Resume.pdf" download className="btn-glow outline">
+            <a href="/TusharSharma.pdf" download className="btn-glow outline">
               📄 Resume
             </a>
           </div>
