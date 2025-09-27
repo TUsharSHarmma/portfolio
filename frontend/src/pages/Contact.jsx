@@ -31,7 +31,7 @@ function Contact() {
     if (Object.keys(validationErrors).length === 0) {
       setIsSending(true);
       try {
-        const res = await fetch('https://portfolio-7lah.onrender.com/api/contact', {
+        const res = await fetch('https://portfolio-9c32.onrender.com/api/contact', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(formData),
