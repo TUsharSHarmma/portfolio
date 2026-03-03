@@ -42,7 +42,7 @@ function Home() {
               />
             </span>
           </h1>
-          <p className="subtitle">Android & Web Developer | Building real-world apps</p>
+          <p className="subtitle">Android & Web Developer | Building Real-World Apps</p>
 
           <div className="btn-group">
             <a href="#projects" className="btn-glow">🚀 See My Work</a>
