@@ -28,7 +28,7 @@ function Home() {
           transition={{ duration: 0.8 }}
         >
           <h1>
-            Hi, I’m <span className="neon">Tushar Sharma</span> 👋👋
+            Hi, I’m <span className="neon">Tushar Sharma</span> 👋
             <br />
             <span className="typewriter-text">
               <Typewriter
