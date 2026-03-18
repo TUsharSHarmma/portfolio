@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 import Loader from './components/Loader';
 import CursorGlow from './components/CursorGlow';
 import './App.css'; // ✅ Required for styling
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -46,6 +46,7 @@ function App() {
         <Contact />
         <Footer />
       </div>
+      <Analytics />
     </>
   );
 }
